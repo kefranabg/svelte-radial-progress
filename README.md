@@ -8,7 +8,7 @@
 
 > **radial-progress-svelte** is a light-weight responsive SVG radial progress component for Svelte.
 
-## ✨Demo
+## ✨ Demo
 
 [Click here to see a live demo](https://kefranabg.github.io/svelte-radial-progress-demo/)
 
